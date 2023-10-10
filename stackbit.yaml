@@ -81,6 +81,9 @@ models:
             name: featured_image
             label: Logo
           - type: string
+            name: site_logo
+            label: site_logo
+          - type: string
             name: favicon
             label: Favicon
           - type: string
