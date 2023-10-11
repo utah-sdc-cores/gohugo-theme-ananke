@@ -6,3 +6,5 @@ table {
     padding: 0 .2em;
     font-size:medium
   }
+
+  img[alt=drawing] { width: 300px; }
